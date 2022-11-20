@@ -18,4 +18,4 @@ When you create your account and get the AWS credits you can start using the AWS
 *When creating an AWS account you are required to provide a credit card. Your card will not be charged for fees for eligible services until you incur fees for eligible services that exceed available promotional credit. Make sure your credits are activated in the console before using any AWS services.
 
 # Self-guided tour
-To try out Sagemaker notebook on your own simply open the notebook here:https://hfg-demo-notebook.notebook.eu-west-3.sagemaker.aws/lab/tree/hfg-sample-sagemaker-notebooks/hfg-demo-getdata.ipynb and follow the instructions in the cells. Happy building!
+To try out Sagemaker notebook on your own simply open the notebook here https://github.com/portisto/hfg-sample-sagemaker-notebooks/blob/main/hfg-demo-s3-notebook.ipynb and follow the instructions in the cells. Happy building!
