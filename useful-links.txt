@@ -3,7 +3,7 @@
 Sagemaker processing jobs:
 https://docs.aws.amazon.com/sagemaker/latest/dg/processing-job.html
 
-Destroy all resources:
+Remove all AWS supported resources from your subscription:
 https://github.com/rebuy-de/aws-nuke
 
 Billing alarm CF Template:
