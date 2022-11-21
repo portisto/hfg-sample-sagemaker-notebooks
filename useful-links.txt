@@ -6,4 +6,5 @@ https://docs.aws.amazon.com/sagemaker/latest/dg/processing-job.html
 Destroy all resources:
 https://github.com/rebuy-de/aws-nuke
 
-Budget CF Template:
+Billing alarm CF Template:
+https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/quickref-cloudwatch.html#cloudwatch-sample-billing-alarm
